@@ -22,8 +22,8 @@ Controller
 		Easily create objects that are relateable
 		and conform to db normalization
 		
-[[Overall]]
-	What we want is a simple syncronized way of working with simple objects and relations
+			[[Overall]]
+	What we want is a simple syncronized way of working with simple objects and relations.
 	The object will be considered to be of the following form
 		An Object has
 			A id {integer} 1
